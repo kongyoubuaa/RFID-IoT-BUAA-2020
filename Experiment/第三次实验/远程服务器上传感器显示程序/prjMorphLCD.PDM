@@ -1,0 +1,117 @@
+[Root]
+Most Recent Package=标准安装软件包 1
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机\安装包
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+
+[Package|标准安装软件包 1|Files Released]
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\mscomm32.ocx=
+C:\Windows\SysWOW64\mswinsck.ocx=
+
+[Package|标准安装软件包 1|Files Added]
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Windows\SysWOW64\mswinsck.ocx=Yes
+C:\Windows\SysWOW64\WINSKCHS.DLL=Yes
+D:\软件\STC_ISP\MSCOMM32.OCX=Yes
+E:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机\DHT11.exe=Yes
+F:\2018-2019设计\ZIGBEE设计\ZIGBEE温湿度继电器控制\上位机\TeeChart5.ocx=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+F:\2016-2017设计\3月份订单\ok20ZigBee DHT11材料3.31\VB\DHT11.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCHS.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\2017-2018淘宝设计\zigbee温湿度VB上位机\VB\DHT11.exe=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\2017-2018淘宝设计\zigbee温湿度VB上位机\VBok\VB\DHT11.exe=$(AppPath)
+E:\STM32设计\BC95资料\BC95开发资料\上位机源代码\VBok\VB上位机\VB\DHT11.exe=$(AppPath)
+C:\Windows\SysWOW64\mswinsck.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\WINSKCHS.DLL=$(WinSysPath)
+E:\STM32设计\BC95资料\BC95开发资料\BC95开发资料V1.2\上位机源代码\温湿度采集上位机\DHT11.exe=$(AppPath)
+D:\软件\STC_ISP\MSCOMM32.OCX=$(WinSysPath)
+F:\2018-2019设计\ZIGBEE设计\ZIGBEE噪音设计\VB\TeeChart5.ocx=$(WinSysPath)
+E:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机\DHT11.exe=$(AppPath)
+F:\2018-2019设计\ZIGBEE设计\ZIGBEE温湿度继电器控制\上位机\TeeChart5.ocx=$(WinSysPath)
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+F:\2016-2017设计\3月份订单\ok20ZigBee DHT11材料3.31\VB\DHT11.exe=Yes
+F:\2017-2018淘宝设计\zigbee温湿度VB上位机\VB\DHT11.exe=Yes
+F:\2017-2018淘宝设计\zigbee温湿度VB上位机\VBok\VB\DHT11.exe=Yes
+E:\STM32设计\BC95资料\BC95开发资料\上位机源代码\VBok\VB上位机\VB\DHT11.exe=Yes
+E:\STM32设计\BC95资料\BC95开发资料\BC95开发资料V1.2\上位机源代码\温湿度采集上位机\DHT11.exe=Yes
+E:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机\DHT11.exe=Yes
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=
+Title=墨子号科技
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=prjMorphLCD
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|标准安装软件包 1|prjMorphLCD]
+Icon1=DHT11.exe
+Title1=prjMorphLCD
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=e:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机\安装包
+ProjectFolder=E:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机
+ServerSideCab=
+File1=e:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机\安装包\setup.exe
+File2=e:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机\安装包\Setup.Lst
+File3=e:\STM32设计\BC28资料\BC28开发资料\12_上位机代码\UDP\温湿度采集上位机\安装包\DHT11.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
